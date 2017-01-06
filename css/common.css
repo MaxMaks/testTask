@@ -1,0 +1,24 @@
+#header form{
+    padding-top: 5px;
+    padding-right: 5px;
+}
+.finger, .fingerUser{
+    margin: 10px !important;
+    font-size: 40px;
+
+}
+
+
+.breadcrumbs{
+    font-size: 24px;
+}
+
+#previousPage,#nextPage{
+    font-size: 30px;
+}
+#contributors{
+    border-left: solid 4px #000;
+}
+em{
+    font-size: 14px;
+}
